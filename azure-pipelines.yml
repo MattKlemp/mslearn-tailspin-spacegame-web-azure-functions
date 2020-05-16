@@ -107,7 +107,7 @@ stages:
                 [
                   {
                     "name": "LeaderboardFunctionUrl",
-                    "value": "$(LeaderboardFunctionUrl)",
-                    "slotSetting": "false"
+                    "value": "matt",
+                    "slotSetting": false
                   }
                 ]
